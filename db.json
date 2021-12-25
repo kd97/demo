@@ -5,9 +5,13 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments":{
-    "days": 21,
-    "hours":8,
-    "minutes":24,
+    "time":{
+       "days": 21,
+       "hours":8,
+       "minutes":24,
+      
+    },
+   
     "gpu":0,
     "battery":32,
     "disk":4.21,
