@@ -7,12 +7,14 @@
   "comments":{
     "days": 21,
     "hours":8,
+    "test":{
+      "1":1
+    },
     "minutes":24,
     "gpu":0,
     "battery":32,
     "disk":4.21,
-    "temperature":36,
-    "used":2.15
+    "temperature":36
   },
   "profile": {
     "name": "kd97"
