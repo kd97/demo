@@ -4,10 +4,16 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 3, "body": "some comment", "postId": 1 }
-  ],
+  "comments":{
+    "days": 21,
+    "hours":8,
+    "minutes":24,
+    "gpu":0,
+    "battery":32,
+    "disk":4.21,
+    "temperature":36,
+    "used":2.15
+  },
   "profile": {
     "name": "kd97"
   }
